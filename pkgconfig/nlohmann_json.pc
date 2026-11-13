@@ -1,0 +1,7 @@
+prefix=C:/Users/jacob.farrow/Qt_Projects/MLCTR/branches/features/rocky_integration/external
+includedir=${prefix}/include
+
+Name: nlohmann_json
+Description: JSON for Modern C++
+Version: 3.12.0
+Cflags: -I${includedir}
